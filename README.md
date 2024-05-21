@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on some open source projects.
 - 📫 How to reach me in mail [dsatyaki956@gmai.com]
+- 📫 web:  https://satyaki7.github.io/DigiCard/
 
 <!---
 Satyaki7/Satyaki7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
