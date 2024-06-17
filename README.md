@@ -5,4 +5,4 @@
 - 📫 How to reach me in mail [dsatyaki956@gmai.com]
 - 📫 web:  https://satyaki7.github.io/DigiCard/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyaki7)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyaki7&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
