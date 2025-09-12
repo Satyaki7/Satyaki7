@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new Languages.
 - 💞️ I’m looking to collaborate on some open source projects.
 - 📫 How to reach me in mail [dsatyaki08@gmai.com]
-- 📫 web:  https://satyaki-das.me/Profile-links
+- 📫 web:  https://satyaki-das.me
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyaki7&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
 
