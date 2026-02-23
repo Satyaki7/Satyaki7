@@ -5,6 +5,6 @@
 - 📫 How to reach me in mail [dsatyaki08@gmai.com]
 - 📫 web:  https://satyaki-das.me
 
-(https://github-readme-stats.vercel.app/api?username=Satyaki7&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Satyaki7&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
